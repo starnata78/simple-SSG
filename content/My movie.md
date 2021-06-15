@@ -1,6 +1,6 @@
 ---
 title: The Shawshank Redemption (film)
-date: 1994
+date: 1623769066415
 description: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
 ---
 
